@@ -1,0 +1,4 @@
+group,type,number,weight
+testGroup1,testType1,1,1
+testGroup2,testType2,2,1
+testGroup3,testType3,3,1
